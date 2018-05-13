@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+bcge*.csv
+bcr*.csv
+viseca*.csv
+cleaned.csv
